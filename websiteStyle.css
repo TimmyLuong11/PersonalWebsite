@@ -1,0 +1,122 @@
+﻿#index 
+{
+    background-color: #BAD8FF;
+    margin: 0;
+}
+
+#about 
+{
+    background-color: #BAD8FF;
+    margin: 0;
+}
+
+#projects
+{
+    background-color: #BAD8FF;
+    margin: 0;
+}
+
+#skills 
+{
+    background-color: #BAD8FF;
+    margin: 0;
+}
+
+h1
+{
+    margin:15px;
+    text-align:center;
+}
+
+.navbar 
+{
+    background-color: #262626;
+    padding: 15px;
+}
+
+a 
+{
+    color:white;
+    text-decoration:none;
+    padding:10px;
+    font-size:15px;
+}
+
+#homeImg
+{
+    max-width: 100%;
+    width:350px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit:contain;
+}
+
+#homePara
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#aboutPic 
+{
+    max-width: 100%;
+    height: 500px;
+    margin: 10px;
+}
+
+#aboutPara
+{
+    font-size: 20px;
+}
+
+#aboutMe 
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#projectPic
+{
+    max-width: 100%;
+    height: 500px;
+    margin: 10px;
+}
+
+#projectPara
+{
+    font-size: 20px;
+}
+
+#projectPage
+{
+    display: flex;
+    flex-direction: row;
+}
+
+button 
+{
+    font-size: 25px;
+    margin-left:145px;
+}
+
+button:hover
+{
+    background-color:red;
+    cursor:pointer;
+}
+
+img
+{
+    width: 470px;
+    height: 470px;
+    display: inline-block;
+    margin-left:8%;
+}
+
+#skillPara
+{
+    font-size:30px;
+    text-align:center;
+}
